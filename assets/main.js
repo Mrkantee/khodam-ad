@@ -21,6 +21,22 @@ function cekKhodam(event) {
                 'Jin',
                 'Iblis',
                 'Kuntilanak',
+                'Dewa Zeus',
+                'Ular Kadut',
+                'Nyi Roro Kidul',
+                'Buaya Darat',
+                'Tuyul Boti',
+                'Cicak Ngisng',
+                'Buaya Pemalas',
+                'Sapi Perah',
+                'Harimau Sunda',
+                'Anjing Pemarah',
+                
+                
+                
+                
+                
+                
                 'Pocong'
             ];
             const random = Math.floor(Math.random() * khodam.length);
