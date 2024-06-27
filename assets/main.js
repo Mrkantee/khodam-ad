@@ -31,10 +31,15 @@ function cekKhodam(event) {
                 'Sapi Perah',
                 'Harimau Sunda',
                 'Anjing Pemarah',
-                
-                
-                
-                
+                'Babi Hutan',
+                '',
+                '',
+                '',
+
+
+
+
+
                 
                 
                 'Pocong'
