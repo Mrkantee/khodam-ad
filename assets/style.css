@@ -73,7 +73,15 @@ body::before {
     color: white;
     border-radius: 5px;
     font-weight: bold;
-    text-shadow: white 2px 2px;
+}
+}
+
+.hasil-khodam{
+    margin: 10px;
+    padding: 2px 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
 }
 
 p{
