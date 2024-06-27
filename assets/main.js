@@ -15,7 +15,7 @@ function cekKhodam(event) {
                 'Syaitan',
                 'Malaikat',
                 'Peri',
-                'Naga',
+                'Naga Bearbrend',
                 'Setan',
                 'Hantu',
                 'Jin',
@@ -32,17 +32,25 @@ function cekKhodam(event) {
                 'Harimau Sunda',
                 'Anjing Pemarah',
                 'Babi Hutan',
-                '',
-                '',
-                '',
-
-
-
-
-
-                
-                
-                'Pocong'
+                'Naga Mahjong',
+                'Rawa lontek',
+                'Siluman Biaywak',
+                'Pohon Palem',
+                'Badut',
+                'Power Ranger Pink',
+                'Pelerr',
+                'Tobruttt',
+                'Kuda Sumbing',
+                'Ayam Masako',
+                'Singa Padlepop',
+                'Tikus Got',
+                'Undur Undur',
+                'Gajah Duduk',
+                'Singa Keramas',
+                'Singa Biskuat',
+                'Ular Sawah',
+                'Tutup Toples',
+                'Pocong Kadut'
             ];
             const random = Math.floor(Math.random() * khodam.length);
             $('#result').html(`${nama.toUpperCase()} - Khodam Kamu (${khodam[random]})`);
